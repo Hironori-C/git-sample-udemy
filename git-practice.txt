@@ -6,3 +6,5 @@ add練習中
 remote動作
 
 .gitignoreをつくってみた
+
+text追加
